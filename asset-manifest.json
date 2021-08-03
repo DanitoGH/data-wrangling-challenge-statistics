@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.js": "/data-wrangling-challenge-statistics/static/js/main.bd92ee5b.chunk.js",
-    "main.js.map": "/data-wrangling-challenge-statistics/static/js/main.bd92ee5b.chunk.js.map",
-    "runtime-main.js": "/data-wrangling-challenge-statistics/static/js/runtime-main.8896ed91.js",
-    "runtime-main.js.map": "/data-wrangling-challenge-statistics/static/js/runtime-main.8896ed91.js.map",
+    "main.js": "/data-wrangling-challenge-statistics/static/js/main.19c4b502.chunk.js",
+    "main.js.map": "/data-wrangling-challenge-statistics/static/js/main.19c4b502.chunk.js.map",
+    "runtime-main.js": "/data-wrangling-challenge-statistics/static/js/runtime-main.cf1c8e2b.js",
+    "runtime-main.js.map": "/data-wrangling-challenge-statistics/static/js/runtime-main.cf1c8e2b.js.map",
     "static/css/2.fe61e19b.chunk.css": "/data-wrangling-challenge-statistics/static/css/2.fe61e19b.chunk.css",
-    "static/js/2.d168fb5b.chunk.js": "/data-wrangling-challenge-statistics/static/js/2.d168fb5b.chunk.js",
-    "static/js/2.d168fb5b.chunk.js.map": "/data-wrangling-challenge-statistics/static/js/2.d168fb5b.chunk.js.map",
-    "static/js/3.e1b0917d.chunk.js": "/data-wrangling-challenge-statistics/static/js/3.e1b0917d.chunk.js",
-    "static/js/3.e1b0917d.chunk.js.map": "/data-wrangling-challenge-statistics/static/js/3.e1b0917d.chunk.js.map",
+    "static/js/2.3021fc5c.chunk.js": "/data-wrangling-challenge-statistics/static/js/2.3021fc5c.chunk.js",
+    "static/js/2.3021fc5c.chunk.js.map": "/data-wrangling-challenge-statistics/static/js/2.3021fc5c.chunk.js.map",
+    "static/js/3.b03849ad.chunk.js": "/data-wrangling-challenge-statistics/static/js/3.b03849ad.chunk.js",
+    "static/js/3.b03849ad.chunk.js.map": "/data-wrangling-challenge-statistics/static/js/3.b03849ad.chunk.js.map",
     "index.html": "/data-wrangling-challenge-statistics/index.html",
     "static/css/2.fe61e19b.chunk.css.map": "/data-wrangling-challenge-statistics/static/css/2.fe61e19b.chunk.css.map",
-    "static/js/2.d168fb5b.chunk.js.LICENSE.txt": "/data-wrangling-challenge-statistics/static/js/2.d168fb5b.chunk.js.LICENSE.txt"
+    "static/js/2.3021fc5c.chunk.js.LICENSE.txt": "/data-wrangling-challenge-statistics/static/js/2.3021fc5c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.8896ed91.js",
+    "static/js/runtime-main.cf1c8e2b.js",
     "static/css/2.fe61e19b.chunk.css",
-    "static/js/2.d168fb5b.chunk.js",
-    "static/js/main.bd92ee5b.chunk.js"
+    "static/js/2.3021fc5c.chunk.js",
+    "static/js/main.19c4b502.chunk.js"
   ]
 }
