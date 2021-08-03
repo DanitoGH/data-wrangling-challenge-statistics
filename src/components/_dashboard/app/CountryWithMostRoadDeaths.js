@@ -45,7 +45,7 @@ export default function CountryWithMostRoadDeaths() {
 
   return (
     <Card>
-      <CardHeader title="Top 10 EU Countries With The Most Road Deaths" subheader="#in decending order" />
+      <CardHeader title="Top 10 EU Countries With The Most Road Deaths" subheader="2018" />
       <Box sx={{ mx: 3 }} dir="ltr">
         <ReactApexChart type="bar" series={[{ data: mostRoadDeaths }]} options={chartOptions} height={364} />
       </Box>
